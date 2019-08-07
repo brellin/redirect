@@ -1,2 +1,8 @@
-# redirect
-Redirects a get request in case you have been banned
+# Redirect
+
+## Endpoint
+ Request | Header | Description
+ --------|--------|------------
+ `GET` | {url: 'url to redirect'} | Returns the response that you would normally get from that url
+
+### Simple and straightforward :)
